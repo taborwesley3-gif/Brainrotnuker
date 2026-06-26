@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/taborwesley3-gif/Brainrotnuker/refs/heads/main/README.md"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/taborwesley3-gif/Brainrotnuker/refs/heads/main/Raw"))()
